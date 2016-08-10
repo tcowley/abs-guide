@@ -1,6 +1,13 @@
 @media screen and (max-width: 800px) {
+    table {
+        min-width: 95%!important;
+    }
+
     pre {
         padding: .3em;
-        font-size: 200%;
+    }
+
+    .VARIABLELIST dd {
+        margin-left: 20px;
     }
 }
