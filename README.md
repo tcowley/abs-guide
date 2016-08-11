@@ -1,6 +1,10 @@
 # abs-guide
-Advanced Bash Scripting Guide, with the &lt;meta name="viewport"&gt; tag added, plus a little CSS to make it nicer on mobile.
+This is mobile-friendly version of tddp.org's "Advanced Bash Scripting Guide".
 
-source HTML from: http://www.tldp.org/guides.html (the HTML tarball for "Advanced Bash-Scripting Guide")
+The original HTML sources are at http://www.tldp.org/guides.html (the HTML tarball for "Advanced Bash-Scripting Guide")
 
-Access this copy of the guide at https://tcowley.github.io/abs-guide/ .
+Changes: 
+- Added a &lt;meta name="viewport"&gt; tag to each HTML file
+- Added a some CSS to make it nicer on mobile
+
+You can read this copy of the guide at https://tcowley.github.io/abs-guide/ .
