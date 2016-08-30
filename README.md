@@ -1,6 +1,6 @@
 ## Mobile-friendly version of the "Advanced Bash Scripting Guide"
 
-This is more mobile-friendly version of tldp.org's "Advanced Bash Scripting Guide".
+This is more mobile-friendly version of Mendel Cooper's "Advanced Bash Scripting Guide".
 
 The original HTML sources are at http://www.tldp.org/guides.html. Look for the HTML tarball for "Advanced Bash-Scripting Guide".
 
